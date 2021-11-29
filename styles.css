@@ -1,0 +1,19 @@
+body{
+	background-color: none;
+}
+p{
+	color: white;
+	font-family: arial;
+	font-size: 400%;
+	text-align: center;
+}
+.content{
+	background-color: black;
+	padding: 5px;
+	width: 100%;
+
+}
+h4{
+	color: red;
+	text-align: center;
+}
